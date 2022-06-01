@@ -6,19 +6,7 @@
         "eo": "IS4Q2500057",
         "sb": "",
         "fleet": "Q400",
-        "contenT_DESCRIPTION": null,
-        "ecO_DATE": "2015-10-23T00:00:00",
-        "eO_DESCRIPTION": "IS4Q2500057 - WARDROBES AND PARTITIONS - INSTALLATION OF A BUMPER TO PREVENT DAMAGE TO THE SWITCHES ON THE WING BULKHEAD ASSEMBLY",
-        "pn": null,
-        "position": null,
-        "sn": null,
-        "factorY_INC": "N",
-        "status": "TERMINATED",
-        "repeaT_NUMBER": 1,
-        "schedulE_CYCLES_REPEAT": 0,
-        "schedulE_HOURS_REPEAT": 0,
-        "schedulE_DAYS_REPEAT": 0,
-        "schedulE_DATE_REPEAT": null
+   
      },
      {
         "ac": "427QX",
@@ -26,19 +14,7 @@
         "eo": "",
         "sb": "8-MHI0045",
         "fleet": "Q400",
-        "contenT_DESCRIPTION": "Aircraft Affected:\r\nService Bulletin: DHC ---8 Aircraft Models 401 and 402 Serial Numbers 4001,\r\n4003 thru 4078.\r\nProduction: ModSum 4 ---154672 will be incorporated before delivery on\r\napplicable DHC ---8 Aircraft Model 401 and 402 Serial Number\r\n4079 and subsequent.\r\nVerification: ModSum 4 ---154672 has been incorporated on DHC ---8\r\nAircraft Model 402 Serial Number 4018.",
-        "ecO_DATE": null,
-        "eO_DESCRIPTION": null,
-        "pn": null,
-        "position": null,
-        "sn": null,
-        "factorY_INC": "Y",
-        "status": "FACTORY INC",
-        "repeaT_NUMBER": null,
-        "schedulE_CYCLES_REPEAT": null,
-        "schedulE_HOURS_REPEAT": null,
-        "schedulE_DAYS_REPEAT": null,
-        "schedulE_DATE_REPEAT": null
+
     }]
     
 }
